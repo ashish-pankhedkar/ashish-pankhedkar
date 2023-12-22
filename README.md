@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-pankhedar&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-pankhedar" /> </p>
 
-- 🌱 I’m currently learning **Biointelligence**
+- 🌱 I’m currently final year student at BITS Goa.**
 
 - 📫 How to reach me **a.pankhedkar14@gmail.com**
 
