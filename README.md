@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Pankhedkar</h1>
-<h3 align="center">I am Third yearite at Birla Institute of Technology, Pilani - Goa Campus. I have worked on several projects in variety of Domains.</h3>
+<h3 align="center">I am Final Year at Birla Institute of Technology, Pilani - Goa Campus. I have worked on several projects in variety of Domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-pankhedar&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-pankhedar" /> </p>
 
-- 🌱 I’m currently final year student at BITS Goa.**
+- 🌱 I’m currently learning Full Stack Development**
 
 - 📫 How to reach me **a.pankhedkar14@gmail.com**
 
